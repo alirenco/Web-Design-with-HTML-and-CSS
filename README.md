@@ -1,5 +1,6 @@
-# Web-Design-Challenge
+# Web Design Using HTML and CSS
 
 Webpage for displaying OpenWeatherMap API data analysis on latitude and other aspects of weather.
 
-Media queries not working on my laptop so could not check all.
+Styling done with CSS.
+
